@@ -1,0 +1,6 @@
+5
+Scavenger 5 2 fast 2 cloth 1 0
+Wolf 10 4 normal 0 fur 2 1
+Raider 12 5 normal 3 iron 1 0
+Cave_Beast 20 8 slow 0 scales 5 1
+Cultist 15 6 fast 5 cloth 1 0

@@ -1,0 +1,5 @@
+4
+Fists 1
+Bone_Spear 3
+Iron_Sword 6
+Rifle 8

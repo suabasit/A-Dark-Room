@@ -1,0 +1,6 @@
+5
+Abandoned_Town 5 T
+Dark_Forest 8 #
+Old_Battlefield 12 B
+Flooded_Cave 15 C
+Ruined_City 20 R

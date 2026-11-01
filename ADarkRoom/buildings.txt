@@ -1,0 +1,8 @@
+7
+Trap 10 0 0 10
+Cart 30 0 0 1
+Hut 100 0 0 20
+Smokehouse 35 5 0 1
+Tannery 50 10 0 1
+Trading_Post 100 10 0 1
+Steelworks 200 0 35 1
